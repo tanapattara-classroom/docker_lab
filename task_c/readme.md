@@ -3,7 +3,7 @@
 ```mermaid
 graph TD
 A[Docker Compose] --> B[Node.js Server]
-B --> C[my-app Container]
+B --> C[nextjs-app Container]
 ```
 
 ## Build Docker Image
